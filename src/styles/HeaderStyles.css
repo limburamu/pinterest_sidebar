@@ -1,0 +1,27 @@
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.header-menu {
+    display: flex;
+    align-items: center;
+}
+
+.header-menu li {
+    padding: 0 1rem;
+}
+
+.header-menu li a {
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+}
+
+.pinterest {
+    background-color: red;
+    /* color: red; */
+}
+
